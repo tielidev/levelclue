@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Signal box puzzle panel</title>
+  <desc id="desc">An original geometric illustration of switches, a bell, and a brass control dial.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#231f2c"/><stop offset="1" stop-color="#5f416b"/></linearGradient><linearGradient id="brass"><stop stop-color="#f3d38a"/><stop offset=".5" stop-color="#a76a2b"/><stop offset="1" stop-color="#f5df9f"/></linearGradient></defs>
+  <rect width="1200" height="675" rx="42" fill="url(#bg)"/><rect x="80" y="70" width="1040" height="535" rx="32" fill="#352d38" stroke="#8e738e" stroke-width="8"/>
+  <circle cx="600" cy="338" r="165" fill="#1d1b23" stroke="url(#brass)" stroke-width="32"/><circle cx="600" cy="338" r="34" fill="#ead08d"/><path d="M600 338 682 222" stroke="#f4dc9a" stroke-width="18" stroke-linecap="round"/>
+  <g fill="#c9f0cf" stroke="#18291b" stroke-width="10"><circle cx="250" cy="170" r="28"/><circle cx="950" cy="170" r="28"/></g>
+  <g stroke="#d9c9b7" stroke-width="24" stroke-linecap="round"><path d="M240 282v180"/><path d="M960 282v180"/></g><g fill="#bd5343"><rect x="197" y="256" width="86" height="76" rx="18"/><rect x="917" y="412" width="86" height="76" rx="18"/></g>
+  <path d="M535 520h130" stroke="#f3d38a" stroke-width="14" stroke-linecap="round"/><circle cx="600" cy="520" r="42" fill="#bd5343"/>
+</svg>
+
