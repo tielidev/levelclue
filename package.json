@@ -1,0 +1,17 @@
+{
+  "name": "levelclue-architecture-starter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A dependency-free reference architecture for data-driven game walkthrough websites.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "dev": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
+

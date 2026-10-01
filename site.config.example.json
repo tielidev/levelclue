@@ -1,0 +1,11 @@
+{
+  "site": {
+    "name": "Walkthrough Starter",
+    "domain": "example.com",
+    "locale": "en-US"
+  },
+  "content": {
+    "updatedAt": "2026-10-01"
+  }
+}
+
